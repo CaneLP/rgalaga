@@ -3,7 +3,7 @@ RGalaga je igrica napravljena po ugledu na japansku arkadnu igricu Galaga, iz 19
 
 Cilj je da se pređe što više nivoa uništavanjem neprijateljskih svemirskih letelica.
 
-![RGalaga](https://github.com/rgalaga/blob/master/screenshots/rgalaga_05_2.gif)
+![RGalaga](https://github.com/CaneLP/rgalaga/blob/master/screenshots/rgalaga_05_2.gif)
 
 ## :video_game: Komande
 

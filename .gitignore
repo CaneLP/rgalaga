@@ -1,0 +1,32 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables
+*.exe
+*.out
+*.app
+galaga
+
+# swap files that might've been created by vim
+*.swp
+*.swo
+
+cmake-build-*
+.idea
+build
+rgalaga stuff

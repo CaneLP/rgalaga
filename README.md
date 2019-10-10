@@ -1,20 +1,23 @@
 # RG47-rgalaga
-RGalaga je igrica napravljena po ugledu na japansku arkadnu igricu Galaga, iz 1987, koja je bila dostupna i na SEGA-i, kao i nekim drugim konzolama.
 
-Cilj je da se pređe što više nivoa uništavanjem neprijateljskih svemirskih letelica.
+Project wiki (Serbian only): https://github.com/CaneLP/rgalaga/wiki
+
+RGalaga is the game created based on Japanese arcade game Galaga (1987), available on SEGA and other consoles.
+
+The goal of the game is to clear as many levels as you can by destroying enemy spacecrafts.
 
 ![RGalaga](https://github.com/CaneLP/rgalaga/blob/master/screenshots/rgalaga_05_2.gif)
 
-## :video_game: Komande
+## :video_game: Commands
 
-- Igrač se kreće levo i desno, pritiskom na tastere <kbd>left</kbd>, odnosno <kbd>right</kbd>.
-- Igrač lansira projektile pritiskom na dugme <kbd>space</kbd>.
-- Pritiskom na dugme <kbd>s</kbd>, igrač započinje ili resetuje igru.
-- Pritiskom na dugme <kbd>ESC</kbd> izlazi se iz igrice.
+- Player moves left and right by pressing <kbd>left</kbd> and <kbd>right</kbd>.
+- Press <kbd>space</kbd> to launch missiles.
+- Press <kbd>s</kbd> to start or reset the game.
+- Press <kbd>ESC</kbd> to exit the game.
 
-- Igra se završava kada se pređu svi izgenerisani nivoi.
+- The game is over when all generated levels are cleared.
 
-## :hammer: Instalacija i pokretanje programa
+## :hammer: Installation and running the game
 
 ```bash 
 git clone https://github.com/rgalaga.git

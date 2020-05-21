@@ -26,7 +26,7 @@ galaga
 *.swp
 *.swo
 
-cmake-build-*
-.idea
-build
-rgalaga stuff
+cmake-build-*/
+.idea/
+build/
+rgalaga_stuff/

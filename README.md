@@ -19,6 +19,11 @@ The goal of the game is to clear as many levels as you can by destroying enemy s
 
 ## :hammer: Installation and running the game
 
+- Install OpenGL Utility Library:
+```bash 
+sudo apt-get install libglu1-mesa-dev
+```
+- Clone the project and build it:
 ```bash 
 git clone https://github.com/rgalaga.git
 ```
@@ -37,6 +42,7 @@ cmake ..
 ```bash 
 make
 ```
+- Run the game:
 ```bash 
 ./RGalaga
 ```
